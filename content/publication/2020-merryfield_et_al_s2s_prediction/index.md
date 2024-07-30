@@ -50,7 +50,7 @@ authors:
 - J.V. Mecking
 - D.E. Miller
 - N. Neddermann
-- C.H.J Ng
+- C.H.J. Ng
 - A. Ossó
 - K. Pankatz
 - S. Peatman
