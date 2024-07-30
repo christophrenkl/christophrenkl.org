@@ -4,113 +4,88 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  mode: system
+  color: emerald
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Oceanographer and climate scientist.'
+    description: 'Climate scientist'
     twitter: 'christophrenkl'
   analytics:
-    google_analytics: 'G-4EBJCNERT0'
+    google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
   verification:
     google: ''
     baidu: ''
 
 # Site header
-
 header:
   navbar:
+    # Display the navigation bar?
     enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: false
+    # Choose a built-in navigation blox or create your own
+    blox: "navbar"
+    # Align menu links: `left`, `center`, or `right`
+    align: "center"
+    # Fix the navigation bar to the top of the page
+    fixed_to_top: true
+    logo:
+      # Logo text
+      text: "Christoph Renkl"
+      # Logo filename in `assets/media/` folder
+      filename:
+    # Shop a call-to-action button in the top right?
+    button:
+      enable: false
+      text:
+      url:
+    # Let the user choose between light or dark mode?
+    show_theme_chooser: false
+    # Let the user search from the navigation bar?
     show_search: false
+    # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     highlight_active_link: true
+    # Show a language chooser (if you have translated your site content)?
+    show_translations: false
+    # If `show_translations` is enabled, do you wish to hide the current language name?
+    hide_language_name: false
 
 # Site footer
-
 footer:
   copyright:
-    notice: '© {year} Christoph Renkl' #. This work is licensed under {license}'
-    # license:
-    #   enable: true
-    #   allow_derivatives: false
-    #   share_alike: true
-    #   allow_commercial: false
+    notice: '© {year} Christoph Renkl.' # This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
-
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
 # Site features
-
 features:
-  syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
     enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
   avatar:
     gravatar: false
     shape: square
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15
 
-# Extensions
+# Citation style
 
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-# Security
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+publications:
+  date_format: January 2006
+  citation_style: apa
