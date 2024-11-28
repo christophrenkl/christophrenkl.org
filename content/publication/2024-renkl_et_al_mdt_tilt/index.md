@@ -13,15 +13,16 @@ publishDate:
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["manuscript"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ocean Science* (in review, preprint available)"
+publication: "*Ocean Science* (in press, selected as highlight paper)"
 publication_short: ""
 
-abstract: "Mean dynamic topography (MDT) plays an important role in the dynamics of shelf circulation. Coastal tide gauge observations in combination with the latest generation of geoid models are providing estimates of the alongshore tilt of MDT with unprecedented accuracy. Additionally, high-resolution ocean models are providing better representations of nearshore circulation and the associated tilt of MDT along their coastal boundaries. It has been shown that the newly available geodetic estimates can be used to validate model predictions of coastal MDT variability on global and basin scales. On smaller scales, however, there are significant variations in alongshore MDT that are on the same order of magnitude as the accuracy of the geoid models.
+abstract: "Mean dynamic topography (MDT) plays an important role in the dynamics of shelf circulation. Coastal tide gauge observations in combination with the latest generation of geoid models are providing estimates of the alongshore tilt of MDT with unprecedented accuracy. Additionally, high-resolution ocean models are providing better representations of nearshore circulation and the associated tilt of MDT along their coastal boundaries. It has been shown that the newly available geodetic estimates can be used to validate model predictions of coastal MDT variability on global and basin scales. On smaller scales,
+however, there are significant variations in alongshore MDT that are on the same order of magnitude as the accuracy of the geoid models.
 
-In this study, we use a regional ocean model of the Gulf of Maine and Scotian Shelf (GoMSS) to demonstrate that the new observations of geodetically referenced coastal sea level can provide valuable information also for the validation of such high-resolution models. The predicted coastal MDT is in good agreement with coastal tide gauge observations referenced to the Canadian Gravimetric Geoid model (CGG2013a) including a significant tilt of alongshore MDT along the coast of Nova Scotia. Using the validated GoMSS model and several idealized models, we show that this alongshore tilt of MDT can be interpreted in two complementary, and dynamically consistent, ways: In the coastal view, the tilt of MDT along the coast can provide a direct estimate of the average alongshore current. In the regional view, the tilt can be used to approximate upwelling averaged over an offshore area. This highlights the value of using geodetic MDT estimates for model validation and ocean monitoring."
+In this study, we use a regional ocean model of the Gulf of Maine and Scotian Shelf~(GoMSS) to demonstrate that the new observations of geodetically referenced coastal sea level can provide valuable information also for the validation of such high-resolution models. The predicted coastal MDT is in good agreement with coastal tide gauge observations referenced to the Canadian Gravimetric Geoid model (CGG2013a) including a significant tilt of alongshore MDT along the coast of Nova Scotia. Using the validated GoMSS model and two idealized models, we show that this alongshore tilt of MDT can be interpreted in two complementary, and dynamically consistent, ways: In the coastal view, the tilt of MDT along the coast can provide a direct estimate of the average alongshore current. In the regional view, the tilt provides a measure of area-integrated nearshore circulation. This highlights the value of using geodetic MDT estimates for model validation and ocean monitoring."
 
 # Summary. An optional shortened abstract.
 summary:
