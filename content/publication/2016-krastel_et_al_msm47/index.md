@@ -1,25 +1,25 @@
 ---
 title: "Geomorphology, processes and geohazards of giant submarine landslides and tsunami generation capacity, as recorded in the sedimentary record of the only historic slide of this kind: the 1929 Grand Banks landslide of the Canadian Atlantic continental margin - Cruise No. MSM47 - September 30 - October 30, 2015 - St. John's (Canada) - Ponta Delgada, Azores (Portugal)"
 authors:
-- S. Krastel
-- A. Braeunig
-- A. Georgiopoulou
-- H. Jaehmlich
-- M. Lange
-- K. Lindhorst
-- J. Llopart
-- S. Mader
-- M. Merl
-- I. Muecke
-- christoph
-- R. Roskoden
-- M. Schoenke
-- I. Schulten
-- J.-P. Schwarz
-- C. Stevenson
-- M. Vallee
-- B. Wegener
-- L. Wiesenberg
+- Krastel, S.
+- Braeunig, A.
+- Georgiopoulou, A.
+- Jaehmlich, H. 
+- Lange, M. 
+- Lindhorst, K. 
+- Llopart, J. 
+- Mader, S. 
+- Merl, M. 
+- Muecke, I. 
+- "**Renkl, C.**"
+- Roskoden, R.
+- Schoenke, M. 
+- Schulten, I. 
+- Schwarz, J.-P. 
+- Stevenson, C. 
+- Vallee, M. 
+- Wegener, B. 
+- Wiesenberg, L. 
 author_notes:
 
 date: "2016-01-01"
@@ -34,7 +34,7 @@ publishDate:
 publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
-publication: "MARIA S. MERIAN-Berichte MSM47. DFG-Senatskommission für Ozeanographie, p. 55"
+publication: "(MARIA S. MERIAN-Berichte MSM47). DFG-Senatskommission für Ozeanographie. https://doi.org/10.2312/cr_msm47"
 publication_short: ""
 
 abstract: 

@@ -1,9 +1,9 @@
 ---
 title: "Validation of the 20-year TOPAZ Reanalysis"
 authors:
-- christoph
-- F. Counillon
-- L. Bertino
+- "**Renkl, C.**"
+- "Counillon, F."
+- "Bertino, L."
 author_notes:
 
 date: "2014-07-01"
@@ -18,7 +18,7 @@ publishDate:
 publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Tech. Rep. Bergen, Norway: Nansen Environmental and Remote Sensing Center, p. 67"
+publication: "Nansen Environmental and Remote Sensing Center"
 publication_short: ""
 
 abstract: 

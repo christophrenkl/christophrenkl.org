@@ -25,7 +25,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Journal Articles
+      title: Journal Articles (Peer-Reviewed)
       filters:
         folders:
           - publication

@@ -1,13 +1,13 @@
 ---
 title: "Sea Ice Non-Linearities Act to Rectify and Filter Oceanic and Atmospheric Forcing"
 authors:
-- B. Richaud
-- M. Dowd
-- christoph
-- E.C.J. Oliver
+- Richaud, B.
+- Dowd, M.
+- "**Renkl, C.**"
+- Oliver, E.C.J. 
 author_notes:
 
-date: "2024-08-26"
+date: "2025-01-01"
 doi:
 
 # Schedule page publish date (NOT publication's date).
