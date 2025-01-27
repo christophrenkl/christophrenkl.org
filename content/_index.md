@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/cv_renkl-2024-11-28.pdf
+        url: uploads/cv_renkl-2025-01-27.pdf
     design:
       css_class:
       background:
