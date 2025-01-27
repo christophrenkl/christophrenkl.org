@@ -33,6 +33,7 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   authors: '/author/:slug/'
+pluralizeListTitles: false
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
@@ -54,3 +55,10 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+cascade:
+  # Configure publications
+  - _target:
+      path: /publication/**
+    reading_time: false
+    hide_date: true
