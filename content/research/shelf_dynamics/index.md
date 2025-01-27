@@ -25,8 +25,6 @@ show_date: false
 reading_time: false
 share: false
 profile: false
-
-# **Renkl, C.**, Oliver, E.C.J., Thompson, K.R. (2025). The alongshore tilt of mean dynamic topography and its implications for model validation and ocean monitoring. *Ocean Science, XX*(xx), XXX–XXX. https://doi.org/. [EGU Highlight Paper]. 
 ---
 Regional models are used to downscale large-scale information from global circulation models through physically consistent open boundary conditions. As part of my research, I have developed and used a variety of such high-resolution ocean models that allow for representation of processes on a wider range of spatial and temporal scales, including tides, and their interactions over a specific region of interest.
 
@@ -46,6 +44,8 @@ I also developed a framework for correcting systematic biases before downscaling
 
 ### Related Publications
 <span style="font-size:.8em; line-height:1.5">
+
+**Renkl, C.**, Oliver, E.C.J., Thompson, K.R. (2025). The alongshore tilt of mean dynamic topography and its implications for model validation and ocean monitoring. *Ocean Science, 21*(1), 181–198. https://doi.org/10.5194/os-21-181-2025. [EGU Highlight Paper]. 
 
 Ohashi, K., Laurent A., **Renkl, C.**, Sheng, J., Fennel, K., Oliver, E. (2024). DalROMS-NWA12 v1.0, a coupled circulation–ice–biogeochemistry modelling system for the northwest Atlantic Ocean: development and validation. *Geoscientific Model Development, 17*(23), 8697–8733. https://doi.org/10.5194/gmd-17-8697-2024.
 
