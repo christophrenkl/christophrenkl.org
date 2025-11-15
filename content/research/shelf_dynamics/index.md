@@ -36,7 +36,7 @@ the mean sea surface above the geoid. While it had been shown previously that ge
 Mean dynamic topography (MDT) describes variations in the mean sea surface height above a reference surface called a geoid.
 By combining theory, idealized models, and a regional ocean circulation model, I showed that this alongshore tilt of MDT can be interpreted in two complementary, and dynamically consistent, ways: in the coastal view, the tilt of MDT along the coast can provide a direct estimate of the average alongshore current. In the regional view, the tilt provides a measure of area-integrated nearshore circulation. This highlights the value of using geodetic MDT estimates for model validation and ocean monitoring.
 
-### Dowscaling Global Climate Simulations
+### Downscaling Global Climate Simulations
 Regional ocean models can be forced by global climate simulations to improve estimates of historical and future circulation and hydrography. 
 As part of the [Northwest Atlantic Biological Carbon Pump Project](https://nwa-bcp.ocean.dal.ca/), I contributed to the development of a coupled circulation–ice–biogeochemistry modelling system, a joint effort by three interdisciplinary research groups at Dalhousie University including the groups of [Eric Oliver](https://ecjoliver.weebly.com), [Jinyu Sheng](https://www.dal.ca/faculty/science/oceanography/people/faculty/jinyu-sheng.html), and [Katja Fennel](https://memg.ocean.dal.ca/fennel).
 During the model development, I took on the leading role in configuring the sea ice model and its coupling to the ocean component.
