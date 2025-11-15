@@ -77,12 +77,23 @@ education:
         [_Analysis of the Predictability of European Winter Storms in ECMWF Ensemble Predictions as a Function of Lead Time_]'
 
 work:
+  - position: Deputy Professor
+    company_name: Bonn University, Bonn, Germany
+    company_url: 'https://www.uni-bonn.de/en'
+    company_logo: ''
+    date_start: 2025-03-17
+    date_end: ''
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Postdoctoral Investigator
     company_name: Woods Hole Oceanographic Institution, Woods Hole, MA, USA
     company_url: 'https://www.whoi.edu'
     company_logo: ''
     date_start: 2023-01-09
-    date_end: ''
+    date_end: '2025-03-10'
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -131,4 +142,4 @@ work:
 
 I am a climate scientist with background in atmospheric science and physical oceanography. My research focuses on interactions of the atmosphere, ocean, and cryosphere within climate as an integrated system. The overarching goal of my research is to better understand the role of air-sea-ice interactions and their teleconnections in weather and climate variability across a range of spatial and temporal scales. I am particularly interested in combining coupled numerical models and observations using a variety of statistical tools to improve our understanding of the climate system, including questions of predictability, longterm trends, and extreme events
 
-Currently, I am a Postdoctoral Investigator at [Woods Hole Oceanographic Institution](https://www.whoi.edu/) working with [Dr. Hyodae Seo](https://www.hyodaeseo.com/).
+Currently, I am a Deputy Professor in Meteorology at the [Institute of Geosciences at Bonn University](https://www.ifgeo.uni-bonn.de/en/institut-fuer-geowissenschaften) where I am leading the research group [Regional Weather and Climate Modeling](https://www.ifgeo.uni-bonn.de/en/sections/meteorology/wg-regional-weather-and-climate-modeling).
