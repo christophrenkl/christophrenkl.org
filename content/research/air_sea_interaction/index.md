@@ -34,3 +34,10 @@ The climate system varies across a wide range of spatial and temporal scales in 
 
 The coastal climate is immensely affected by the ocean, moderating air temperature variability and also providing moisture for precipitation that plays a key role in agricultural and water resource management efforts. On a basin scale, persistent large-scale anomalies in the atmospheric circulation can create extreme SST events, known as marine heatwaves (MHWs). My current research aims at understanding the impact of such MHWs in the Northeast Pacific on synoptic-scale weather patterns including atmospheric rivers (ARs) and associated diabatic heat exchanges across the air-sea interface. This project is a collaboration with [Hyodae Seo (University of Hawai`i at Mānoa)](https://www.hyodaeseo.com/projects/nsf_ca/) and [Art Miller (Scripps Institution of Oceanography/UCSD)](https://ajmiller000.github.io/). Coupled ocean-atmosphere ensemble simulations show that enhanced evaporation during MHWs creates a robust moisture anomaly in the lower troposphere
 leading to an intensification of the ARs that propagate across the anomalously warm surface ocean. Upon landfall, this results in an earlier onset and prolonged duration of precipitation inland thereby creating hazardous conditions and increasing flood risk.
+
+### Related Publications
+<span style="font-size:.8em; line-height:1.5">
+
+Richaud, B., Dowd, M., **Renkl, C.**, Oliver, E.C.J. (2025). Sea Ice Nonlinearities Act to Rectify and Filter Oceanic and Atmospheric Forcing. *Journal of Climate 38*(17), 4573–4588. https://doi.org/10.1175/JCLI-D-24-0485.1. 
+
+</span>
