@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:christoph.renkl@whoi.edu'
+    url: 'mailto:christoph.renkl@uni-bonn.de'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/christophrenkl
