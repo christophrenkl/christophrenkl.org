@@ -14,7 +14,7 @@ postnominals:
   - PhD
 status:
   icon:
-role: Regional Weather<br>and Climate Modeling
+role: Regional Weather and <br>Climate Modeling Group
 bio: |
   I am a climate scientist with background in atmospheric science and physical 
   oceanography. My research focuses on interactions of the atmosphere, ocean, 
@@ -51,24 +51,25 @@ links:
     url: www.linkedin.com/in/christophrenkl
 
 interests:
-  - Climate Variability and Predictability
+  - Climate Dynamics and Predictability
   - Air--Sea--Ice Interactions
-  - Coastal and Shelf Dynamics
-  - Coupled Atmosphere--Ocean Modeling
+  - Synoptic Meteorology
+  - Coastal Ocean and Shelf Dynamics
+  - Regional Coupled Modeling
 
-education:
-  - degree: PhD Oceanography, 2020
-    institution: Dalhousie University, Halifax NS, Canada
-    start:
-    end: 2020
-  - degree: MSc Physics of the Earth and Atmosphere, 2013
-    institution: University of Bonn, Germany
-    start:
-    end: 2013
-  - degree: BSc Meteorology, 2011
-    institution: Freie Universität Berlin, Germany
-    start:
-    end: 2011
+# education:
+#   - degree: PhD Oceanography, 2020
+#     institution: Dalhousie University, Halifax NS, Canada
+#     start:
+#     end: 2020
+#   - degree: MSc Physics of the Earth and Atmosphere, 2013
+#     institution: University of Bonn, Germany
+#     start:
+#     end: 2013
+#   - degree: BSc Meteorology, 2011
+#     institution: Freie Universität Berlin, Germany
+#     start:
+#     end: 2011
 
 experience:
   - role: Deputy Professor
