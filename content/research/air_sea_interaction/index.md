@@ -28,8 +28,6 @@ profile: false
 ---
 ![Atmospheric rivers propagating over warm SST anomalies in December 2014.](obs_ivt_sst_v2.gif)
 
-The climate system varies across a wide range of spatial and temporal scales in a complex and fascinating interplay between atmosphere, ocean, ice, and land. My research aims to better understand these interactions and to improve predictive capabilities that can provide valuable, early information for decision makers to ensure public safety, energy security, and protection of infrastructure.
-
 ### Impacts of Marine Heatwaves on Atmospheric Rivers
 
 The coastal climate is immensely affected by the ocean, moderating air temperature variability and also providing moisture for precipitation that plays a key role in agricultural and water resource management efforts. On a basin scale, persistent large-scale anomalies in the atmospheric circulation can create extreme SST events, known as marine heatwaves (MHWs). My current research aims at understanding the impact of such MHWs in the Northeast Pacific on synoptic-scale weather patterns including atmospheric rivers (ARs) and associated diabatic heat exchanges across the air-sea interface. This project is a collaboration with [Hyodae Seo (University of Hawai`i at Mānoa)](https://www.hyodaeseo.com/projects/nsf_ca/) and [Art Miller (Scripps Institution of Oceanography/UCSD)](https://ajmiller000.github.io/). Coupled ocean-atmosphere ensemble simulations show that enhanced evaporation during MHWs creates a robust moisture anomaly in the lower troposphere
@@ -37,6 +35,8 @@ leading to an intensification of the ARs that propagate across the anomalously w
 
 ### Related Publications
 <span style="font-size:.8em; line-height:1.5">
+
+**Renkl, C.**, Seo, H., Miller, A.J. (2026). Marine heatwaves in the Northeast Pacific intensify landfalling atmospheric rivers on the west coast of North America. *Scientific Reports 16*(1), 23097. https://doi.org/10.1038/s41598-026-62522-2.
 
 Richaud, B., Dowd, M., **Renkl, C.**, Oliver, E.C.J. (2025). Sea Ice Nonlinearities Act to Rectify and Filter Oceanic and Atmospheric Forcing. *Journal of Climate 38*(17), 4573–4588. https://doi.org/10.1175/JCLI-D-24-0485.1. 
 
