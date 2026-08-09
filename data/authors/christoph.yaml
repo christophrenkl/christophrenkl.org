@@ -1,0 +1,80 @@
+schema: hugoblox/author/v1
+slug: christoph
+is_owner: true
+name:
+  display: Christoph Renkl
+  given: Christoph
+  family: Renkl
+  alternate: ''
+  pronunciation: ''
+  pronouns: 
+postnominals:
+  - PhD
+status:
+  icon:
+role: Regional Weather<br>and Climate Modeling
+bio: |
+  I am a climate scientist with background in atmospheric science and physical 
+  oceanography. My research focuses on interactions of the atmosphere, ocean, 
+  and cryosphere within climate as an integrated system. The overarching goal 
+  of my research is to better understand the role of air-sea-ice interactions 
+  and their teleconnections in weather and climate variability across a range 
+  of spatial and temporal scales. I am particularly interested in combining 
+  coupled numerical models and observations using a variety of statistical 
+  tools to improve our understanding of the climate system, including 
+  questions of predictability, longterm trends, and extreme events.
+
+  Currently, I am a Deputy Professor in Meteorology at the
+  [University of Bonn](https://www.ifgeo.uni-bonn.de/en/institut-fuer-geowissenschaften) 
+  where I am leading the research group 
+  [Regional Weather and Climate Modeling](https://www.ifgeo.uni-bonn.de/en/sections/meteorology/wg-regional-weather-and-climate-modeling).
+
+affiliations:
+  - name: Institute of Geosciences | University of Bonn
+    url: https://www.ifgeo.uni-bonn.de/en/institut-fuer-geowissenschaften
+
+links:
+  - icon: at-symbol
+    url: mailto:christoph.renkl@uni-bonn.de
+    label: Get in touch!
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com//citations?user=HV4MRcIAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-1825-0097
+  - icon: brands/github
+    url: https://github.com/christophrenkl
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/did:plc:5yfjnna6jldsffwayj2tmeql
+  - icon: brands/linkedin
+    url: www.linkedin.com/in/christophrenkl
+
+interests:
+  - Climate Variability and Predictability
+  - Air--Sea--Ice Interactions
+  - Coastal and Shelf Dynamics
+  - Coupled Atmosphere--Ocean Modeling
+
+education:
+  - degree: PhD Oceanography, 2020
+    institution: Dalhousie University, Halifax NS, Canada
+    start:
+    end: 2020
+  - degree: MSc Physics of the Earth and Atmosphere, 2013
+    institution: University of Bonn, Germany
+    start:
+    end: 2013
+  - degree: BSc Meteorology, 2011
+    institution: Freie Universität Berlin, Germany
+    start:
+    end: 2011
+
+experience:
+  - role: Deputy Professor
+    org: Bonn University, Bonn, Germany
+    start: 2025-03-17
+  - role: Postdoctoral Investigator
+    org: Woods Hole Oceanographic Institution, Woods Hole, MA, USA
+    start: 2023-01-09
+    end: 2025-03-10
+
+
