@@ -3,7 +3,7 @@ title: "Sea surface warming and ocean-to-atmosphere feedback driven by large-sca
 authors:
 - Seo, H.
 - Sauvage, C.
-- "**Renkl, C.**"
+- christoph
 - Lundquist, J.K. 
 - Kirincich, A.
 date: "2025-11-05"

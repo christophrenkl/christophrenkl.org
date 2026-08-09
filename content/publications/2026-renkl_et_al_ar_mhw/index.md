@@ -1,7 +1,7 @@
 ---
 title: "Marine heatwaves in the Northeast Pacific intensify landfalling atmospheric rivers on the west coast of North America"
 authors:
-- "**Renkl, C.**"
+- christoph
 - Seo, H.
 - Miller, A.J.
 date: "2026-07-23"

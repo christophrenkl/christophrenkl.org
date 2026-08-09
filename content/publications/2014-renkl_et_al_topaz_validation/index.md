@@ -1,7 +1,7 @@
 ---
 title: "Validation of the 20-year TOPAZ Reanalysis"
 authors:
-- "**Renkl, C.**"
+- christoph
 - "Counillon, F."
 - "Bertino, L."
 date: "2014-07-01"

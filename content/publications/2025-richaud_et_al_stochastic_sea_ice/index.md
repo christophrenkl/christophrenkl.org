@@ -3,7 +3,7 @@ title: "Sea Ice Nonlinearities Act to Rectify and Filter Oceanic and Atmospheric
 authors:
 - Richaud, B.
 - Dowd, M.
-- "**Renkl, C.**"
+- christoph
 - Oliver, E.C.J. 
 date: "2025-08-08"
 

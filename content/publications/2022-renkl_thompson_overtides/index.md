@@ -1,7 +1,7 @@
 ---
 title: "Validation of Ocean Model Predictions of Mean Dynamic Topography in Shallow, Tidally Dominated Regions Using Observations of Overtides"
 authors:
-- "**Renkl, C.**"
+- christoph
 - "Thompson, K.R."
 date: "2022-02-16"
 

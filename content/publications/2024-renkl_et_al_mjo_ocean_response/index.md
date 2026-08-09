@@ -1,7 +1,7 @@
 ---
 title: "Downscaling the ocean response to the Madden–Julian Oscillation in the Northwest Atlantic and adjacent shelf seas"
 authors:
-- "**Renkl, C.**"
+- christoph
 - Oliver, E.C.J. 
 - Thompson, K.R. 
 date: "2024-05-06"

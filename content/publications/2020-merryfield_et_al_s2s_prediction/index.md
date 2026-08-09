@@ -58,7 +58,7 @@ authors:
 - Perlwitz, J. 
 - Recalde-Coronel, G.C. 
 - Reintges, A. 
-- "**Renkl, C.**"
+- christoph
 - Solaraju-Murali, B. 
 - Spring, A. 
 - Stan, C. 

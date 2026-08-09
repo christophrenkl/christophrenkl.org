@@ -1,7 +1,7 @@
 ---
 title: "Ocean Model Validation and Downscaling for Subseasonal-to-Seasonal Prediction"
 authors:
-- "**Renkl, C.**"
+- christoph
 date: "2020-11-26"
 
 # Schedule page publish date (NOT publication's date).

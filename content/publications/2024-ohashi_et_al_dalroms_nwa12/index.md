@@ -3,7 +3,7 @@ title: "DalROMS-NWA12 v1.0, a coupled circulation–ice–biogeochemistry modell
 authors:
 - Ohashi, K.
 - Laurent A.
-- "**Renkl, C.**"
+- christoph
 - Sheng, J.
 - Fennel, K.
 - Oliver, E.

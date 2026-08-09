@@ -6,7 +6,7 @@ authors:
 - Seo, H.
 - Matsumura, Y.
 - Sauvage, C.
-- "**Renkl, C.**"
+- christoph
 date: "2026-08-05"
 
 # Schedule page publish date (NOT publication's date).

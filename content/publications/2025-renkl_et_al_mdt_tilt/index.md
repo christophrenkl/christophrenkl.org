@@ -1,7 +1,7 @@
 ---
 title: "The alongshore tilt of mean dynamic topography and its implications for model validation and ocean monitoring"
 authors:
-- "**Renkl, C.**"
+- christoph
 - Oliver, E.C.J. 
 - Thompson, K.R.
 date: "2025-01-27"

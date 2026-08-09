@@ -5,9 +5,11 @@ name:
   display: Christoph Renkl
   given: Christoph
   family: Renkl
-  alternate: ''
+  alternate: 'Renkl, C.'
   pronunciation: ''
-  pronouns: 
+  pronouns:
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 postnominals:
   - PhD
 status:
@@ -76,5 +78,3 @@ experience:
     org: Woods Hole Oceanographic Institution, Woods Hole, MA, USA
     start: 2023-01-09
     end: 2025-03-10
-
-

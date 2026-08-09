@@ -11,7 +11,7 @@ authors:
 - Mader, S. 
 - Merl, M. 
 - Muecke, I. 
-- "**Renkl, C.**"
+- christoph
 - Roskoden, R.
 - Schoenke, M. 
 - Schulten, I. 
